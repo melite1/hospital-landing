@@ -56,7 +56,7 @@ function Hero() {
                   Modern diagnostics & expert care
                 </p>
                 <p className="text-xs text-slate-500">
-                  Replace this with a real doctor/hospital image later.
+                  {/* Replace this with a real doctor/hospital image later. */}
                 </p>
               </div>
             </div>
